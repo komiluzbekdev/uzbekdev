@@ -1,5 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Ms+Madi&display=swap');
+
 body{
-    background-color: bisque;
+    
+    background: rgb(0,255,98);
+    background: linear-gradient(90deg, rgba(0,255,98,1) 0%, rgba(151,3,255,1) 0%, rgba(255,59,0,1) 36%, rgba(225,236,1,1) 95%, rgba(232,241,0,1) 100%, rgba(252,0,255,1) 100%);
+   
+  
     margin: auto;
     display: inline-block;
     align-items: center;
@@ -16,9 +22,18 @@ header{
 }
 .loop{
     margin: 20px;
-   90o
+    font-size: 72px;
     
-}
+  }
+    
+
+h1 {
+    font-size: 72px;
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: "Ms Madi";
+  }
 
 
 
